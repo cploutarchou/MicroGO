@@ -12,7 +12,9 @@ make sure you have the following dependencies:
 
 ### How to use MicroGO
 1. download or clone MicroGO repository from [GitHub](https://github.com/cploutarchou/MicroGO.git)
-2. Run make build command in the root directory of MicroGO.
+2. Run make build command in the root directory of MicroGO. 
+3. dist folder will be created with the microGo binary file
+4. Run make new project_name command the commands create ne new folder with skeleton app and all the required files.
 
 
 ### MicroGO Terminal Commands:
